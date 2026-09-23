@@ -46,3 +46,6 @@
 {"n":46,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Last Light. Nobody past the north dock. We hold in 4 steps. Direct on the left lane, open."}
 {"n":47,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light north dock. Bess keeps the drum for the hold. 5 steps, direct on the left lane, open."}
 {"n":48,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north dock. direct left open. 6 steps. The drum stays for the hold."}
+{"n":49,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at South stair. Nobody past the north dock. We hold in 7 steps. Direct on the left lane, open."}
+{"n":50,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair north dock. Matt keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":51,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north dock. direct left open. 2 steps. The drum stays for the hold."}
