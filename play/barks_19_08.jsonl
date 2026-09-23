@@ -495,3 +495,6 @@
 {"n":495,"kind":"place","name":"High line east gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east gutter. Bess keeps the rebar for the hold. 7 steps, direct on the left lane, open."}
 {"n":496,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east gutter. direct left open. 8 steps. The rebar stays for the hold."}
 {"n":497,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Ward gate. Nobody past the east gutter. We hold in 2 steps. Direct on the left lane, open."}
+{"n":498,"kind":"place","name":"Ward gate east gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east gutter. Matt keeps the rope for the hold. 3 steps, direct on the left lane, open."}
+{"n":499,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east gutter. direct left open. 4 steps. The rope stays for the hold."}
+{"n":500,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rope at Ward gate. Nobody past the east gutter. We hold in 5 steps. Direct on the left lane, open."}
