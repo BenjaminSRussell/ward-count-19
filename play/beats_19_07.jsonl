@@ -351,3 +351,6 @@
 {"n":351,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at the Lot. Nobody past the west gutter. We hold in 4 steps. Direct on the left lane, open."}
 {"n":352,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
 {"n":353,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. direct left open. 6 steps. The radio coil stays for the hold."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the Lot. Nobody past the west gutter. We hold in 7 steps. Direct on the left lane, open."}
+{"n":355,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west gutter. Bess keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
+{"n":356,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. direct left open. 2 steps. The radio coil stays for the hold."}
