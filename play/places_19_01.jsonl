@@ -557,3 +557,6 @@
 {"n":557,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north dock. direct left open. 6 steps. The plywood stays for the hold."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the pier. Nobody past the north dock. We hold in 7 steps. Direct on the left lane, open."}
 {"n":559,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north dock. Bess keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
+{"n":560,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. direct left open. 2 steps. The plywood stays for the hold."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Clinic roof. Nobody past the north dock. We hold in 3 steps. Direct on the left lane, open."}
+{"n":562,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north dock. Matt keeps the plywood for the hold. 4 steps, direct on the left lane, open."}
